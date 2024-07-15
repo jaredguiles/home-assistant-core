@@ -1651,3 +1651,4 @@ zwave-js-server-python==0.36.1
 
 # homeassistant.components.zwave_me
 zwave_me_ws==0.2.4
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
